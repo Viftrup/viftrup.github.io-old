@@ -94,10 +94,10 @@ content:
         quote: >
           Test 123
         description: | # this will include new lines to allow paragraphs
-            Solving "network-issues" by fixing misconfigured servers. | Traveled a lot throughout the world to provide trainings for regional colleges and on-site troubleshooting/replacement of equipment.
-            | Configuration and troubleshooting on Cisco ASA55xx, Cat2K og Cat3K, Cat4500, ISR19xx, ISR29xx, ISR4331, IE-3000 and Hirschmann RS-series
-            | Maintaining 25.000+ network devices in Cisco Prime and a small infrastructure based on Cisco Meraki Z1/Z3 Teleworkers with DMVPN
-            | Management of 500+ IPsec VPN tunnels on Cisco ASR-1001 and ASA firewall traffic to/from fleet and datacenters 
+            Solving "network-issues" by fixing servers. | Traveled a lot throughout the world to provide trainings for regional colleges and on-site troubleshooting/replacement of equipment.
+            Configuration and troubleshooting on Cisco ASA55xx, Cat2K og Cat3K, Cat4500, ISR19xx, ISR29xx, ISR4331, IE-3000 and Hirschmann RS-series
+            Maintaining 25.000+ network devices in Cisco Prime and a small infrastructure based on Cisco Meraki Z1/Z3 Teleworkers with DMVPN
+            Management of 500+ IPsec VPN tunnels on Cisco ASR-1001 and ASA firewall traffic to/from fleet and datacenters 
 
             
       - layout: left            
