@@ -136,13 +136,13 @@ content:
             Worked in the Diagnostic Center at Brande providing 3rd level support for network and SCADA systems world-wide.
             
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Certifications # Title for the section
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: Cisco
         caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        sub_title: CCNA
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
