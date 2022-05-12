@@ -94,7 +94,8 @@ content:
         quote: >
           Test 123
         description: | # this will include new lines to allow paragraphs
-            Network consultant working primarily with security solutions - primarily focused on Cisco products. Especially comptent within Cisco firewalling products, such as Cisco ASA and Cisco Firepower.
+            Network consultant working primarily with security solutions - primarily focused on Cisco products. 
+            Especially comptent within Cisco firewalling products, such as Cisco ASA and Cisco Firepower.
 
 
       - layout: left            
