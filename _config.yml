@@ -87,10 +87,23 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left            
+        title: Conscia
+        # link_text: boringcompany.com
+        sub_title: Security Systems Engineer
+        caption: June 2022 - Present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Network consultant working primarily with security solutions - primarily focused on Cisco products, but also getting into Palo Alto security suite.
+            
+            Especially comptent within Cisco firewalling products, such as Cisco ASA and Cisco Firepower.
+
+
+      - layout: left            
         title: Netteam
         # link_text: boringcompany.com
         sub_title: Security Systems Engineer
-        caption: Dec 2019 - Sep 2020
+        caption: Sep 2020 - June 2022
         quote: >
           
         description: | # this will include new lines to allow paragraphs
