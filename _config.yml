@@ -139,7 +139,7 @@ content:
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Cisco
         caption: 2010 - 2013
         sub_title: CCNA
