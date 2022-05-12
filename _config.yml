@@ -87,6 +87,28 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left            
+        title: Netteam
+        # link_text: boringcompany.com
+        sub_title: Security Systems Engineer
+        caption: Dec 2019 - Sep 2020
+        quote: >
+          Test 123
+        description: | # this will include new lines to allow paragraphs
+            Network consultant working primarily with security solutions - primarily focused on Cisco products.
+
+
+      - layout: left            
+        title: Siemens Gamesa Renewable Energy
+        # link_text: boringcompany.com
+        sub_title: OT Cyber Security Architect
+        caption: Dec 2019 - Sep 2020
+        quote: >
+          Test 123
+        description: | # this will include new lines to allow paragraphs
+            Helping the company to mature their cyber security footprint and being complaint within standards like NERC-CIP and ISO-27001.
+            
+
+      - layout: left            
         title: Siemens Gamesa Renewable Energy
         # link_text: boringcompany.com
         sub_title: SCADA Network Specialist
@@ -96,7 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Solving *"network-issues"* by fixing misconfigured servers.
             
-            Traveled a lot throughout the world to provide trainings for regional colleges and on-site troubleshooting/replacement of equipment.
+            Traveled a lot throughout the world to provide training for regional colleges and on-site troubleshooting/replacement of equipment.
             
       - layout: left            
         title: Siemens Wind Power
