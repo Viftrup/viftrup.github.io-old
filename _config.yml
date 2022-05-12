@@ -49,8 +49,9 @@ about_title: Welcome to my <mark>127.0.0.1</mark>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name's Alexander and I'm a Security Network Consultant and this is my simplified LinkedIn-resumé-front-page.  
-  <br>
-  My key competences is: <mark>Security</mark> and <mark>Firewalls</mark>
+ 
+
+  My key competences is: <mark>Security</mark> and <mark>Firewalls</mark>  
 
 content:
   - title: Projects # Title for the section
@@ -124,7 +125,7 @@ content:
             
             Traveled a lot throughout the world to provide training for regional colleges and on-site troubleshooting/replacement of equipment.
             
-      - layout: left            
+      - layout: left      
         title: Siemens Wind Power
         # link_text: boringcompany.com
         sub_title: Data Technician Apprentice
@@ -149,17 +150,17 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+ #     Look at this cool image  
+ #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
