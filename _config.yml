@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 # twitter_username:
-github_username:  viftrup
+github_username: viftrup
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -124,7 +124,7 @@ content:
 
 # Footer
 footer_show_references: false
-# references_title:
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
