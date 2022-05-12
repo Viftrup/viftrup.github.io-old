@@ -92,9 +92,9 @@ content:
         sub_title: Data Technician Apprentice
         caption: Mar 2016 - Feb 2019 
         quote: >
-          .
+          Test 123
         description: | # this will include new lines to allow paragraphs
-            Worked in the Diagnostic Center at Brande providing 3rd level support for network and SCADA systems world-wide. |
+            Worked in the Diagnostic Center at Brande providing 3rd level support for network and SCADA systems world-wide.
             
 
   - title: Education # Title for the section
