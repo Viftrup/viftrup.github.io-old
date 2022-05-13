@@ -154,7 +154,15 @@ content:
         quote: >
            Cisco Certified Network Associate Security
         description: | # this will include new lines to allow paragraphs
-           Learned *deny ip any any* - because we like to make people decide their actual traffic flows, and as route/switch people say - make bumps on their wires.            
+           Learned *deny ip any any* - because we like to make people decide their actual traffic flows, and as route/switch people say - make bumps on their wires.
+
+      - layout: top-middle
+        caption: 2017
+        sub_title: CCNP Switch  - 300-115
+        quote: >
+           Implementing Cisco IP Switched Networks
+        description: | # this will include new lines to allow paragraphs
+           Learned why <mark>add</mark> keyword is one of the most important pieces of reconfiguring trunks.            
 
 #  - title: A Little More About Me
 #    layout: text
