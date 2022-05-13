@@ -141,12 +141,20 @@ content:
     content:
       - layout: top-middle
         title: Cisco
-        caption: 2010 - 2013
-        sub_title: CCNA
+        caption: 2016
+        sub_title: CCNA - 200-101
         quote: >
            Cisco Certified Network Associate
         description: | # this will include new lines to allow paragraphs
-           Learned *permit ip any any* - because route/switch engineers don't care about security. 
+           Learned *permit ip any any* - because route/switch engineers don't care about security.
+           
+      - layout: top-middle
+        caption: 2017
+        sub_title: CCNA Security  - 210-260
+        quote: >
+           Cisco Certified Network Associate Security
+        description: | # this will include new lines to allow paragraphs
+           Learned *deny ip any any* - because we like to make people decide their actual traffic flows, and as route/switch people say - make bumps on their wires.            
 
 #  - title: A Little More About Me
 #    layout: text
