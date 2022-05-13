@@ -162,7 +162,23 @@ content:
         quote: >
            Implementing Cisco IP Switched Networks
         description: | # this will include new lines to allow paragraphs
-           Learned why <mark>add</mark> keyword is one of the most important pieces of reconfiguring trunks.            
+           Learned why *add* keyword is one of the most important pieces of reconfiguring trunks.
+
+      - layout: top-middle
+        caption: 2020
+        sub_title: CMNA
+        quote: >     	
+            Certified Meraki Networking Associate 
+        description: | # this will include new lines to allow paragraphs
+           Learned that Meraki is just a light-version of Cisco classic with a cloud.                     
+
+      - layout: top-middle
+        caption: 2021
+        sub_title: CCNP ENCORE - 350-401
+        quote: >
+           	Implementing and Operating Cisco Enterprise Network Core Technologies
+        description: | # this will include new lines to allow paragraphs
+           Learned that SDN and buggy GUIs is apparently a thing to get used to.             
 
 #  - title: A Little More About Me
 #    layout: text
