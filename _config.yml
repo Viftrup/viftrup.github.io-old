@@ -84,9 +84,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Network consultant working primarily with security solutions - primarily focused on Cisco products, but also getting into Palo Alto security suite.
+            Network consultant working primarily with security solutions - primarily focused on Cisco security suite.
             
-            Especially competent within Cisco firewalling products, such as Cisco ASA and Cisco Firepower.
+            Primarily focus within Cisco Secure Firewall, Umbrella and Secure Workload
 
 
       - layout: left            
@@ -97,9 +97,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Network consultant working primarily with security solutions - primarily focused on Cisco products.
+            Network consultant working primarily with security solutions.
             
-            Especially comptent within Cisco firewalling products, such as Cisco ASA and Cisco Firepower.
+            Primarily focused on Cisco Secure Firewall
 
 
       - layout: left            
@@ -178,7 +178,7 @@ content:
         quote: >
            Implementing and Operating Cisco Enterprise Network Core Technologies
         description: | # this will include new lines to allow paragraphs
-           Learned that SDN and buggy GUIs is apparently a thing to get used to.             
+           Learned that SDN is here for the future.             
 
 #  - title: A Little More About Me
 #    layout: text
