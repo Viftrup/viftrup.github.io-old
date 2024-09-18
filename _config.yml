@@ -9,20 +9,20 @@ version: 2
 name: Alexander Viftrup Andersen
 title: Security Systems Engineer
 email: alex@viftrup.eu
-website: 
+website: viftrup.eu
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  viftrup
+# github_username:  viftrup
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: ava5270
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -84,9 +84,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Network consultant working primarily with security solutions - primarily focused on Cisco security suite.
+            Security network consultant - primarily focused on the Cisco security suite.
             
-            Primarily focus within Cisco Secure Firewall, Umbrella and Secure Workload
+            Responsible for the technical relationship between Conscia DK Cisco Security and Cisco Security.
 
 
       - layout: left            
@@ -97,7 +97,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Network consultant working primarily with security solutions.
+            Network consultant working with security solutions.
             
             Primarily focused on Cisco Secure Firewall
 
